@@ -1287,8 +1287,7 @@ figcaption {
   align-items: center;
   width: 100%;
   max-width: 80rem;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 0 15px;
   display: flex;
 }
 
